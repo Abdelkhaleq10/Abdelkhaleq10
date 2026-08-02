@@ -15,6 +15,14 @@ I am a Computer Science graduate and currently a Master's student in Software En
 I enjoy building modern web applications, solving real-world problems, and continuously improving my skills in software engineering, full-stack development, and cybersecurity.
 
 I am currently looking for internship and collaboration opportunities where I can contribute, learn, and grow as a software engineer.
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
+- Backend: Node.js, PHP
+- Databases: SQLite, MySQL
+- Languages: Java, JavaScript, TypeScript, PHP
+- Tools: Git, GitHub, VS Code, PowerShell
 <!--
 **Abdelkhaleq10/Abdelkhaleq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
