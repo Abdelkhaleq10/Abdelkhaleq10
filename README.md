@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Abdelkhaleq El Mataoui 👋
+
+🎓 Master's Student in Software Engineering & Cybersecurity (ILCS)
+
+💻 Full-Stack Web Developer
+
+🚀 Passionate about Software Engineering, AI & Cybersecurity
+
+📍 Agadir, Morocco
 
 <!--
 **Abdelkhaleq10/Abdelkhaleq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
