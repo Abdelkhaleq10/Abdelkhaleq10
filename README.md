@@ -36,11 +36,8 @@ I am currently looking for internship and collaboration opportunities where I ca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkhaleq10&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkhaleq10&layout=compact&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkhaleq10&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkhaleq10&layout=compact&theme=github_dark" height="180"/>
 </p>
 <!--
 **Abdelkhaleq10/Abdelkhaleq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
