@@ -1,11 +1,5 @@
 # Hi, I'm Abdelkhaleq El Mataoui 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelkhaleq10&color=blue)
-
-![GitHub followers](https://img.shields.io/github/followers/Abdelkhaleq10?style=social)
-
-![GitHub stars](https://img.shields.io/github/stars/Abdelkhaleq10?style=social)
-
 🎓 Master's Student in Software Engineering & Cybersecurity (ILCS)
 
 💻 Full-Stack Web Developer
@@ -33,12 +27,11 @@ I am currently looking for internship and collaboration opportunities where I ca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkhaleq10&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkhaleq10&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkhaleq10&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelkhaleq10&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkhaleq10&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 <!--
 **Abdelkhaleq10/Abdelkhaleq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
