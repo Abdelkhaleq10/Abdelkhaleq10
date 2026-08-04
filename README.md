@@ -1,5 +1,14 @@
 # Hi, I'm Abdelkhaleq El Mataoui 👋
 
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+</p>
+
 🎓 Master's Student in Software Engineering & Cybersecurity (ILCS)
 
 💻 Full-Stack Web Developer
